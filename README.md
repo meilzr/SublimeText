@@ -1,1 +1,1 @@
-# Arquivos e configurações do meu SublimeText #
+# Arquivos, configurações e snippets do meu SublimeText #
