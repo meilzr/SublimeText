@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="author" content="Meialisson Grespan Lazari - www.meialisson.com" />
+		<meta name="description" content="" />
+
+		<title>$1</title>
+
+		<link href="assets/css/styles.css" rel="stylesheet" type="text/css" />
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+		<![endif]-->
+
+		<script src="assets/js/modernizr-2.5.3.js" type="text/javascript"></script>
+
+		<link rel="icon" href="assets/ico/favicon.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="assets/ico/favicon.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="assets/ico/favicon.png" type="image/x-icon" />
+	</head>
+
+	<body>
+		$0
+	</body>
+</html>]]></content>
+	<tabTrigger>html</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
